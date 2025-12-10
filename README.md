@@ -80,3 +80,7 @@ Additionally, the first five test images are displayed along with the model pred
 
 This project successfully demonstrates how to build, train, evaluate, and visualize a deep learning model in TensorFlow. It uses a CNN architecture that learns patterns from handwritten images and predicts digits with high accuracy. The project includes all necessary steps such as data preprocessing, model building, training, evaluation, and visualization. With around 98% accuracy, the model proves to be highly reliable for digit classification. This fulfills all internship requirements and clearly shows understanding of deep learning concepts.
 
+# OUTPUT
+
+<img width="869" height="310" alt="Image" src="https://github.com/user-attachments/assets/7965d8bb-f9f3-41c1-bc73-09bbb778edcd" />
+
